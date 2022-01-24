@@ -1,4 +1,4 @@
-# DiscordStatusAnimator
+# Discord Status Animator
 Allows you to have an automatically updating Discord status &amp; status icon.
 
 
