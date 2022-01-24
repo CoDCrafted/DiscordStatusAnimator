@@ -6,6 +6,8 @@ To use you must know what your discord authorization token is, you can find this
 
 # WARNING
 
-Excessive use of this software (spamming) may result in your account being banned. Keep the interval high to reduce the possibility of this.
+Usage of this software may be considered a "self-bot", which is disallowed on Discord.
+
+Excessive use of this software (spamming) may result in your discord account being banned. Keep the interval high to reduce the possibility of this.
 
 I do not accept responsibility for what you do with this software, be careful.
